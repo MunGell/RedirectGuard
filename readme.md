@@ -2,11 +2,11 @@
 
 ## Description
 
-This very small command line tool that is writen for checking redirects on a given website and produce a report on which redirects are not working or working incorrectly.
+This very small command line tool that is written for checking redirects on a given website and produce a report on which redirects are not working or working incorrectly.
 
 ## Requirements
 
-This program is writen in Python and tested on version 2.7.5, however it might work on other verions as well.
+This program is written in Python and tested on version 2.7.5, however it might work on other versions as well.
 All the requirements in terms of Python modules are in requirements.txt file and easy to install by following command:
 
 `pip install -r requirements.txt`
@@ -40,7 +40,7 @@ Example file:
 
 ### Output file
 
-All the missing or broken redirects are writen to output file in CSV format. Output presents given source and target URLs, response status code and the real URL of redirection (if any).
+All the missing or broken redirects are written to output file in CSV format. Output presents given source and target URLs, response status code and the real URL of redirection (if any).
 
 Example file:
 
