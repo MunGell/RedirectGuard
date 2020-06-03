@@ -1,0 +1,4 @@
+"http://google.com","http://www.google.com/"
+"http://apple.com","https://www.apple.com/"
+"http://google.com","http://apple.com"
+"http://www.google.com/","http://apple.com"
